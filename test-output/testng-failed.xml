@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test1(failed)">
+    <classes>
+      <class name="testngPractice.Testngpractice1">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="class1_Test1"/>
+          <include name="class1_Test2"/>
+          <include name="Beforeclass"/>
+          <include name="afterclass"/>
+          <include name="afterTest"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="BeforeTest"/>
+        </methods>
+      </class> <!-- testngPractice.Testngpractice1 -->
+      <class name="testngPractice.Testngpractice3_1">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="class3_Test1"/>
+          <include name="class3_Test2"/>
+          <include name="Beforeclass"/>
+          <include name="afterclass"/>
+          <include name="afterTest"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="BeforeTest"/>
+        </methods>
+      </class> <!-- testngPractice.Testngpractice3_1 -->
+      <class name="testngPractice.Testngpractice2">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="class2_Test2"/>
+          <include name="Beforeclass"/>
+          <include name="afterclass"/>
+          <include name="afterTest"/>
+          <include name="class2_Test1"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="BeforeTest"/>
+        </methods>
+      </class> <!-- testngPractice.Testngpractice2 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

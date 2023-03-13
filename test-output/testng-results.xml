@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="16" total="28" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T19:50:57 IST" name="Suite" finished-at="2023-03-06T19:51:27 IST" duration-ms="29426">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T19:50:57 IST" name="Test1" finished-at="2023-03-06T19:51:05 IST" duration-ms="7781">
+      <class name="testngPractice.Testngpractice1">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:50:57 IST" name="BeforeTest" finished-at="2023-03-06T19:50:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="Beforeclass(java.lang.String)[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:50:58 IST" name="Beforeclass" finished-at="2023-03-06T19:51:04 IST" duration-ms="6431" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method signature="class1_Test1()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="class1_Test1" finished-at="2023-03-06T19:51:04 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class1_Test1 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="afterMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class1_Test2()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="class1_Test2" finished-at="2023-03-06T19:51:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class1_Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="afterMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:04 IST" name="afterclass" finished-at="2023-03-06T19:51:05 IST" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testngPractice.Testngpractice1@6bbe85a8]" started-at="2023-03-06T19:51:05 IST" name="afterTest" finished-at="2023-03-06T19:51:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testngPractice.Testngpractice1 -->
+      <class name="testngPractice.Testngpractice2">
+        <test-method is-config="true" signature="Beforeclass(java.lang.String)[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:50:58 IST" name="Beforeclass" finished-at="2023-03-06T19:51:04 IST" duration-ms="6484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class2_Test1()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="class2_Test1" finished-at="2023-03-06T19:51:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class2_Test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="afterMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class2_Test2()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="class2_Test2" finished-at="2023-03-06T19:51:04 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class2_Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="afterMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngPractice.Testngpractice2@3a7442c7]" started-at="2023-03-06T19:51:04 IST" name="afterclass" finished-at="2023-03-06T19:51:05 IST" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testngPractice.Testngpractice2 -->
+      <class name="testngPractice.Testngpractice3_1">
+        <test-method is-config="true" signature="Beforeclass(java.lang.String)[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:50:58 IST" name="Beforeclass" finished-at="2023-03-06T19:51:04 IST" duration-ms="6168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class3_Test1()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="class3_Test1" finished-at="2023-03-06T19:51:04 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class3_Test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="afterMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class3_Test2()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="class3_Test2" finished-at="2023-03-06T19:51:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class3_Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="afterMethod" finished-at="2023-03-06T19:51:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngPractice.Testngpractice3_1@4be29ed9]" started-at="2023-03-06T19:51:04 IST" name="afterclass" finished-at="2023-03-06T19:51:05 IST" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testngPractice.Testngpractice3_1 -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-03-06T19:50:57 IST" name="Test2" finished-at="2023-03-06T19:51:27 IST" duration-ms="29426">
+      <class name="testngPractice.Testngpractice1">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:50:57 IST" name="BeforeSuite" finished-at="2023-03-06T19:50:57 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:50:57 IST" name="BeforeTest" finished-at="2023-03-06T19:50:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="Beforeclass(java.lang.String)[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:50:58 IST" name="Beforeclass" finished-at="2023-03-06T19:51:10 IST" duration-ms="12183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class1_Test1()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="class1_Test1" finished-at="2023-03-06T19:51:10 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class1_Test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="afterMethod" finished-at="2023-03-06T19:51:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="class1_Test2()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="class1_Test2" finished-at="2023-03-06T19:51:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class1_Test2 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="afterclass" finished-at="2023-03-06T19:51:12 IST" duration-ms="1873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:10 IST" name="afterMethod" finished-at="2023-03-06T19:51:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:27 IST" name="afterTest" finished-at="2023-03-06T19:51:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testngPractice.Testngpractice1@48bb62]" started-at="2023-03-06T19:51:27 IST" name="afterSuite" finished-at="2023-03-06T19:51:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testngPractice.Testngpractice1 -->
+      <class name="testngPractice.Testngpractice2">
+        <test-method is-config="true" signature="Beforeclass(java.lang.String)[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:12 IST" name="Beforeclass" finished-at="2023-03-06T19:51:17 IST" duration-ms="5652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class2_Test1()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="class2_Test1" finished-at="2023-03-06T19:51:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class2_Test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="afterMethod" finished-at="2023-03-06T19:51:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class2_Test2()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="class2_Test2" finished-at="2023-03-06T19:51:17 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class2_Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="afterMethod" finished-at="2023-03-06T19:51:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngPractice.Testngpractice2@353352b6]" started-at="2023-03-06T19:51:17 IST" name="afterclass" finished-at="2023-03-06T19:51:19 IST" duration-ms="1912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testngPractice.Testngpractice2 -->
+      <class name="testngPractice.Testngpractice3_1">
+        <test-method is-config="true" signature="Beforeclass(java.lang.String)[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:19 IST" name="Beforeclass" finished-at="2023-03-06T19:51:25 IST" duration-ms="5943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class3_Test1()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="class3_Test1" finished-at="2023-03-06T19:51:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class3_Test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="afterMethod" finished-at="2023-03-06T19:51:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="BeforeMethod" finished-at="2023-03-06T19:51:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="class3_Test2()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="class3_Test2" finished-at="2023-03-06T19:51:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class3_Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="afterMethod" finished-at="2023-03-06T19:51:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testngPractice.Testngpractice3_1@4681c175]" started-at="2023-03-06T19:51:25 IST" name="afterclass" finished-at="2023-03-06T19:51:27 IST" duration-ms="1777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testngPractice.Testngpractice3_1 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
